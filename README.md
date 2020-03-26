@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center"><strong>Start your next react project in seconds</strong></div>
+<div align="center"><strong>No Start your next react project in seconds</strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
@@ -133,7 +133,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 
 ## Supporters
 
